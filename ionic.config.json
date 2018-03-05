@@ -1,6 +1,6 @@
 {
   "name": "upcoming-g",
-  "app_id": "",
+  "app_id": "0444bd0e",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
